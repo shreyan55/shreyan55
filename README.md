@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreyansh Gupta</h1>
+<h1 align="center">नमस्ते 👋, I'm Shreyansh Gupta</h1>
 <h3 align="center">A 3rd year Computer Science undergraduate at Sir M Visvesvaraya Institute of Technology, Bangalore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyan55&label=Profile%20views&color=0e75b6&style=flat" alt="shreyan55" /> </p>
