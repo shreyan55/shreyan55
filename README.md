@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyan55&label=Profile%20views&color=0e75b6&style=flat" alt="shreyan55" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyan55" alt="shreyan55" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shreyan4055" target="blank"><img src="https://img.shields.io/twitter/follow/shreyan4055?logo=twitter&style=for-the-badge" alt="shreyan4055" /></a> </p>
 
 - 🌱 I’m currently learning **DSA, ReactJS**
