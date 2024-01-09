@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shreyanshgupta684@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/read/nwjpbvjgfzpm](https://drive.google.com/file/d/1a6qtEMmaaqaUlMBVeCRmAglUVrskSxrt/view?usp=sharing)
+- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1a6qtEMmaaqaUlMBVeCRmAglUVrskSxrt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
