@@ -1,20 +1,20 @@
 <h1 align="center">नमस्ते 👋, I'm Shreyansh Gupta</h1>
-<h3 align="center">A 3rd year Computer Science undergraduate at Sir M Visvesvaraya Institute of Technology, Bangalore</h3>
+<h3 align="center">A Computer Science undergraduate from Sir M Visvesvaraya Institute of Technology, Bangalore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyan55&label=Profile%20views&color=0e75b6&style=flat" alt="shreyan55" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shreyan4055" target="blank"><img src="https://img.shields.io/twitter/follow/shreyan4055?logo=twitter&style=for-the-badge" alt="shreyan4055" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, ReactJS**
+- 🌱 I’m currently learning **DSA, Django**
 
 - 📫 How to reach me **shreyanshgupta684@gmail.com**
 
-- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1a6qtEMmaaqaUlMBVeCRmAglUVrskSxrt/view?usp=sharing)
+- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1ZHeaV_RfVYZjgYFZck8nZx9n4Jh44ZZN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shreyan4055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyan4055" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shreyansh-gupta-9a303a167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyansh-gupta-9a303a167" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shreyanshgupta4055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyansh-gupta-9a303a167" height="30" width="40" /></a>
 <a href="https://fb.com/gupta.shreyansh684" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gupta.shreyansh684" height="30" width="40" /></a>
 <a href="https://instagram.com/_gupta_shreyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gupta_shreyansh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shreyan4055" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shreyan4055" height="30" width="40" /></a>
